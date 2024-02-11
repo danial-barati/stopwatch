@@ -2,7 +2,7 @@
 
 ** a stopwatch by pure js **
 
-![view](https://github.com/danial-barati/scroll/assets/104683176/bcdab226-e1db-4fc5-a399-5fadf630837e)
+![view](https://github.com/danial-barati/stopwatch/assets/104683176/f984caea-4c32-4392-9d6f-caec59a65efe)
 
 - 🔗 [demo](https://danial-barati.github.io/scroll/)
 
