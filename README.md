@@ -4,7 +4,7 @@
 
 ![view](https://github.com/danial-barati/stopwatch/assets/104683176/f984caea-4c32-4392-9d6f-caec59a65efe)
 
-- 🔗 [demo](https://danial-barati.github.io/scroll/)
+- 🔗 [demo](https://danial-barati.github.io/stopwatch/)
 
 - 👩🏻‍💻 Developed by danial barati
 
