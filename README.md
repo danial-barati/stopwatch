@@ -8,7 +8,7 @@
 
 - 👩🏻‍💻 Developed by danial barati
 
-- 📆 Created - 2023-12-10
+- 📆 Created - 2023-12-27
 
 - ✔️ Technologies Used - Html , css , scss , js
 
