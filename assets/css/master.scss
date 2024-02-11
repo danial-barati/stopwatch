@@ -1,0 +1,65 @@
+@font-face {
+  font-family: orbit;
+  src: url(../font/Orbitron-VariableFont_wght.ttf);
+}
+body {
+  font-family: orbit;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main {
+  width: 100%;
+  height: 100vh;
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  > div {
+    width: 70%;
+    text-align: center;
+    font-size: 18px;
+    > div {
+      width: 320px;
+      height: 50px;
+      margin: auto;
+      line-height: 50px;
+      border-radius: 10px;
+      box-shadow: inset 5px 5px 4px #b1b1b1, inset -5px -5px 4px #ffffff;
+      > span {
+        display: inline-block;
+        width: 50px;
+      }
+    }
+    > button {
+      font-size: 18px;
+      padding: 5px 10px;
+      border-radius: 10px;
+      border: unset;
+      box-shadow: 8px 8px 15px #b1b1b1, -8px -8px 15px #ffffffc1;
+      background: transparent;
+      margin: 40px 10px;
+      text-transform: capitalize;
+      cursor: pointer;
+    }
+  }
+}
+.window {
+  > button {
+    transition: 500ms;
+    &:hover {
+      background-image: linear-gradient(to bottom, #66ff00, #00ffb3);
+    }
+  }
+}
+#list {
+  list-style-type: none;
+  text-transform: capitalize;
+  > li {
+    font-size: 18px;
+    margin: 25px 0;
+  }
+}
